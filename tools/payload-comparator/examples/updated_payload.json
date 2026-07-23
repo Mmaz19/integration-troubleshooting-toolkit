@@ -1,0 +1,11 @@
+{
+    "customer": {
+        "id": 1001,
+        "name": "John Smith",
+        "status": "INACTIVE",
+        "email": "john@example.com"
+    },
+    "order": {
+        "amount": 200
+    }
+}

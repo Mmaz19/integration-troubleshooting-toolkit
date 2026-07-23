@@ -1,0 +1,11 @@
+{
+    "customer": {
+        "id": 1001,
+        "name": "John Smith",
+        "status": "ACTIVE",
+        "phone": "+390000000"
+    },
+    "order": {
+        "amount": 150
+    }
+}
